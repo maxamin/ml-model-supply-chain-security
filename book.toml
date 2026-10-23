@@ -1,0 +1,7 @@
+[book]
+title = "ML Model Supply Chain Security"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/ml-model-supply-chain-security"
